@@ -39,8 +39,7 @@
 			<div class="form-container">
 				<div class="form-btn">
 				<span onClick="login()">Đăng nhập</span>
-				<span onClick="register()">Đăng kí</span>
-					<hr id="Indi">
+				<hr id="Indi">
 				</div>
 				
 				<form id="LoginForm">
